@@ -1,3 +1,4 @@
-from . import biblioaj_llibre
-from . import biblioaj_editorial
-from . import biblioaj_autor
+from . import plane_avio
+from . import plane_vol
+from . import plane_aeroport
+from . import plane_pilot

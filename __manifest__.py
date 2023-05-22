@@ -1,8 +1,8 @@
 {
-    'name': "Modul BiblioAJ",
+    'name': "Modul Plane",
     'summary': "Short subtitle phrase",
     'description': """Long description""",
-    'author': "Artur Juvé",
+    'author': "Adria Gutierrez",
     'license': "AGPL-3",
     'website': "http://www.institutmontilivi.cat",
     'category': 'Uncategorized',
